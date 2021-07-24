@@ -19,7 +19,7 @@ Desc
 ## Projetos:
 Veja os tutoriais publicados por min:
 
-* **Machine Learning, House Price:** [Link Notebook](https://colab.research.google.com/drive/1P7m5a0pWbeOg-RphXxq9NOTt3qpfHV0K)
+* **Machine Learning, House Price:** [Link Notebook](https://colab.research.google.com/drive/1P7m5a0pWbeOg-RphXxq9NOTt3qpfHV0K?usp=sharing)
 
 
 ---
