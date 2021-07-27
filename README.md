@@ -17,8 +17,11 @@ Desc
 
 
 ## Projetos:
+Todos projetos estão abertos a comentários e sugestões de melhoria.
 Veja os tutoriais publicados por min:
 
+
+* **Machine Learning, California Distric Price:** <a href="https://colab.research.google.com/drive/1OpcSb4CLwYgA4ou32VXpqiVhaQMXw4xi?usp=sharing" target="_blank">Link Notebook</a>
 * **Machine Learning, House Price:** <a href="https://colab.research.google.com/drive/1P7m5a0pWbeOg-RphXxq9NOTt3qpfHV0K?usp=sharing" target="_blank">Link Notebook</a>
 
 
