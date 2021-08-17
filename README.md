@@ -21,9 +21,7 @@ Todos projetos estão abertos a comentários e sugestões de melhoria.
 Veja os tutoriais publicados por min:
 
 
-* **Machine Learning, California Distric Price:** <a href="https://colab.research.google.com/drive/1Dy3idZAN-l63ytOnUc4bkZGWqvzJHKbH?usp=sharing" target="_blank">Link Notebook</a>
-* **Machine Learning, House Price:** <a href="https://colab.research.google.com/drive/1P7m5a0pWbeOg-RphXxq9NOTt3qpfHV0K?usp=sharing" target="_blank">Link Notebook</a>
-
+* **Data Science - Airbnb - Buenos Aires:** <a href="https://github.com/alexandreIFB/airbnb-buenosaires/blob/master/AirBnbBuenosAires.ipynb" target="_blank">Link Notebook</a>
 
 ---
 
